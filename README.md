@@ -1,3 +1,5 @@
-# thp_ruby
+# THP - Exercices Ruby
 
-Les exercices de 0 à 21 (dont la pyramide en 20 et la pyramide inversée en 21) sont là :)
+Tous les exercices Ruby des journées de :
+- jeudi (exos 1 à 9) 
+- vendredi (exos 10 à 20 + pyramide.rb)
